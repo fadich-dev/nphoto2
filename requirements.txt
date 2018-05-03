@@ -1,0 +1,6 @@
+Django>=1.8,<2.0
+psycopg2
+psycopg2-binary
+Pillow>=5.1,<5.2
+django-imagekit
+
